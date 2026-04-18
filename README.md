@@ -176,6 +176,6 @@ For production, set `VITE_API_BASE_URL=https://your-backend-url.com/api` in fron
 
 ## Developer
 
-**Suprotik Mukherjee**  
-GitHub: [github.com/suprotik](https://github.com/suprotik)  
-LinkedIn: [linkedin.com/in/suprotik](https://linkedin.com/in/suprotik)
+**Anirban Roy**  
+GitHub: [github.com/anirban-roy-coder](https://github.com/anirban-roy-coder)  
+
