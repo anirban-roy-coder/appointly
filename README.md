@@ -1,4 +1,4 @@
-# AppointEase – Appointment Booking System
+# AppointLy – Appointment Booking System
 
 A full-stack appointment booking application built with **PHP (LAMP stack)** + **Vue.js 3**.
 
